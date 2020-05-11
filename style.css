@@ -1,0 +1,16 @@
+body {
+  background-image:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 8px;
+  border-color: silver;
+  }
+  h1 {
+    color: purple;
+  }
+  h3 {
+    color: blue;
+  }
